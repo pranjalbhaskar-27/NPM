@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Pranjal",
-  "license": ""
+  "license": "",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
